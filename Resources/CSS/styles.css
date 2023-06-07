@@ -165,7 +165,6 @@ p {
 .pictures {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 100%;
     align-items: start;
     margin-top: 3rem;
     margin-bottom: 3rem;
